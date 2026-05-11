@@ -1,0 +1,2 @@
+# king-news
+web diplomat
